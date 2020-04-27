@@ -1,2 +1,2 @@
 # rn8209c_sdk
-rn8209c SDK  created for MOKO's customers
+MOKO provides power metering SDK based on RN8209C chip.
